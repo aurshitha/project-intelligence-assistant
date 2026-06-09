@@ -1,0 +1,13 @@
+python-pptx
+chromadb
+sentence-transformers
+streamlit
+groq
+python-dotenv
+pandas
+numpy
+langchain
+langchain-community
+langchain-core
+rank-bm25
+FlagEmbedding
