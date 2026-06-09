@@ -148,11 +148,13 @@ project-intelligence-assistant/
 
 ```bash
 uvicorn app.api.app:app --reload
+```
 
 ## Run Backend
 
 ```bash
 streamlit run streamlit_app.py
+```
 
 ## Example Queries
 
